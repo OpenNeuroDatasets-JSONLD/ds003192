@@ -1,0 +1,5 @@
+{
+	"SamplingFrequency": "10000.0 Hz",
+	"StartTime": -34.717206102076,
+	"Columns": ["time", "respiratory_chest_broken", "respiratory_chest_ppg", "trigger", "cardiac", "respiratory_CO2", "respiratory_O2"]
+}
