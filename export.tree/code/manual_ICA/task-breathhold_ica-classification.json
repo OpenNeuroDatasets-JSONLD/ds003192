@@ -1,0 +1,11 @@
+{
+    "Authors": [
+        "Stefano Moia",
+        "César Caballero-Gaudes"
+    ],
+    "Labels": {
+        "A": "Accepted component",
+        "V": "Vascular component (accepted)",
+        "R": "Rejected component"
+    }
+}
